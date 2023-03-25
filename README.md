@@ -1,7 +1,17 @@
 Byte-Buddies - A Firebase React Chat App
 ========================================
 
-Byte-Buddies is a real-time chat app built using React and Firebase. It allows users to create an account, update their profile with an avatar, and chat with other registered users. The app is responsive and can be used on any device.
+Byte-Buddies is a real-time chat app built using React and Firebase. It allows users to create an account, update their profile with an avatar, and chat with other registered users.
+
+Demo
+----
+https://byte-buddies.vercel.app/login
+
+
+
+https://user-images.githubusercontent.com/91705825/227704753-9377bc9f-f4bd-4ec3-b32a-5fe9791cd3ba.mp4
+
+
 
 Features
 --------
